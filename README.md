@@ -24,3 +24,9 @@ venv\Scripts\activate      # Windows
 
 # Install dependencies
 pip install -r requirements.txt
+
+## License
+
+This project is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for details.
+
